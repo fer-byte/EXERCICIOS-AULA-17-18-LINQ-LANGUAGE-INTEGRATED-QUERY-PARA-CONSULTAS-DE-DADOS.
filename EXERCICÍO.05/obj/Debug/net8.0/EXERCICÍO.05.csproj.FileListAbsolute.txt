@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\EXERCICÍO.05\bin\Debug\net8.0\EXERCICÍO.05.exe
+C:\Users\Fernando\Desktop\EXERCICÍO.05\bin\Debug\net8.0\EXERCICÍO.05.deps.json
+C:\Users\Fernando\Desktop\EXERCICÍO.05\bin\Debug\net8.0\EXERCICÍO.05.runtimeconfig.json
+C:\Users\Fernando\Desktop\EXERCICÍO.05\bin\Debug\net8.0\EXERCICÍO.05.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.05\bin\Debug\net8.0\EXERCICÍO.05.pdb
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\refint\EXERCICÍO.05.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.pdb
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\EXERCICÍO.05.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.05\obj\Debug\net8.0\ref\EXERCICÍO.05.dll

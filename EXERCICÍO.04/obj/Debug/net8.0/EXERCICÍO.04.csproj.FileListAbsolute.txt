@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\EXERCICÍO.04\bin\Debug\net8.0\EXERCICÍO.04.exe
+C:\Users\Fernando\Desktop\EXERCICÍO.04\bin\Debug\net8.0\EXERCICÍO.04.deps.json
+C:\Users\Fernando\Desktop\EXERCICÍO.04\bin\Debug\net8.0\EXERCICÍO.04.runtimeconfig.json
+C:\Users\Fernando\Desktop\EXERCICÍO.04\bin\Debug\net8.0\EXERCICÍO.04.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.04\bin\Debug\net8.0\EXERCICÍO.04.pdb
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\refint\EXERCICÍO.04.dll
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.pdb
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\EXERCICÍO.04.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\EXERCICÍO.04\obj\Debug\net8.0\ref\EXERCICÍO.04.dll

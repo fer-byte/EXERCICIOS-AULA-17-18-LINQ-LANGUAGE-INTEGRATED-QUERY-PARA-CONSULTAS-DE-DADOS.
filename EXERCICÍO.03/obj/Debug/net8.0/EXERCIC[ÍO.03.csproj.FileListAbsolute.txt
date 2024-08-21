@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\bin\Debug\net8.0\EXERCIC[ÍO.03.exe
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\bin\Debug\net8.0\EXERCIC[ÍO.03.deps.json
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\bin\Debug\net8.0\EXERCIC[ÍO.03.runtimeconfig.json
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\bin\Debug\net8.0\EXERCIC[ÍO.03.dll
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\bin\Debug\net8.0\EXERCIC[ÍO.03.pdb
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.dll
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\refint\EXERCIC[ÍO.03.dll
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.pdb
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\EXERCIC[ÍO.03.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\EXERCIC[ÍO.03\obj\Debug\net8.0\ref\EXERCIC[ÍO.03.dll
